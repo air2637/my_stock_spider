@@ -1,0 +1,8 @@
+# ignore Pycharm related file
+.idea/
+
+# ignore all files in data folder
+data/
+
+# ignore virtual environment
+venv/
